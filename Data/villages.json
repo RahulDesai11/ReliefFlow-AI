@@ -1,43 +1,62 @@
-
 [
-  {
-    "id": "V001",
-    "name": "Rampur",
-    "urgency": 5,
-    "people_affected": 1200,
-    "food_needed": 600,
-    "water_needed": 1200
-  },
-  {
-    "id": "V002",
-    "name": "Shivpur",
-    "urgency": 5,
-    "people_affected": 950,
-    "food_needed": 475,
-    "water_needed": 950
-  },
-  {
-    "id": "V003",
-    "name": "Lakshmipur",
-    "urgency": 4,
-    "people_affected": 800,
-    "food_needed": 400,
-    "water_needed": 800
-  },
-  {
-    "id": "V004",
-    "name": "Devgaon",
-    "urgency": 3,
-    "people_affected": 600,
-    "food_needed": 300,
-    "water_needed": 600
-  },
-  {
-    "id": "V005",
-    "name": "Bhavanipur",
-    "urgency": 2,
-    "people_affected": 400,
-    "food_needed": 200,
-    "water_needed": 400
-  }
+    {
+        "id": "V001",
+        "name": "Village A",
+        "latitude": 21.20,
+        "longitude": 81.30,
+        "population": 1200,
+        "people_affected": 900,
+        "urgency": 5,
+        "food_needed": 700,
+        "water_needed": 1200,
+        "medical_kits_needed": 80
+    },
+    {
+        "id": "V002",
+        "name": "Village B",
+        "latitude": 21.25,
+        "longitude": 81.38,
+        "population": 800,
+        "people_affected": 500,
+        "urgency": 4,
+        "food_needed": 400,
+        "water_needed": 700,
+        "medical_kits_needed": 45
+    },
+    {
+        "id": "V003",
+        "name": "Village C",
+        "latitude": 21.15,
+        "longitude": 81.42,
+        "population": 1500,
+        "people_affected": 1300,
+        "urgency": 5,
+        "food_needed": 1000,
+        "water_needed": 1800,
+        "medical_kits_needed": 120
+    },
+    {
+        "id": "V004",
+        "name": "Village D",
+        "latitude": 21.30,
+        "longitude": 81.25,
+        "population": 600,
+        "people_affected": 200,
+        "urgency": 2,
+        "food_needed": 150,
+        "water_needed": 300,
+        "medical_kits_needed": 20
+    },
+    {
+        "id": "V005",
+        "name": "Village E",
+        "latitude": 21.10,
+        "longitude": 81.35,
+        "population": 1000,
+        "people_affected": 750,
+        "urgency": 4,
+        "food_needed": 600,
+        "water_needed": 1000,
+        "medical_kits_needed": 70
+    }
 ]

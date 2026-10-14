@@ -1,5 +1,5 @@
-
 {
-  "food": 1200,
-  "water": 2500
+    "food": 1500,
+    "water": 3000,
+    "medical_kits": 180
 }
