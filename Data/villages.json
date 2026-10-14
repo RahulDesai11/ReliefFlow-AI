@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "V001",
+    "name": "Rampur",
+    "urgency": 5,
+    "people_affected": 1200,
+    "food_needed": 600,
+    "water_needed": 1200
+  },
+  {
+    "id": "V002",
+    "name": "Shivpur",
+    "urgency": 5,
+    "people_affected": 950,
+    "food_needed": 475,
+    "water_needed": 950
+  },
+  {
+    "id": "V003",
+    "name": "Lakshmipur",
+    "urgency": 4,
+    "people_affected": 800,
+    "food_needed": 400,
+    "water_needed": 800
+  },
+  {
+    "id": "V004",
+    "name": "Devgaon",
+    "urgency": 3,
+    "people_affected": 600,
+    "food_needed": 300,
+    "water_needed": 600
+  },
+  {
+    "id": "V005",
+    "name": "Bhavanipur",
+    "urgency": 2,
+    "people_affected": 400,
+    "food_needed": 200,
+    "water_needed": 400
+  }
+]
